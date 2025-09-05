@@ -6,10 +6,10 @@
 | __02__ - 15/08/25     | :material-check: [Configuração de Ambiente de Desenvolvimento](https://liveestacio-my.sharepoint.com/:w:/g/personal/00661711722_professores_ibmec_edu_br/EU2fCcJwgTFLvWNyOSUtNWABng3aZ0HtBI38y6beD8dItQ?e=2VBo3W) <br> :material-check: Configuração repositório  |
 | __03__ - 22/08/25     | :material-check: |
 | __04__ - 29/08/25     | :material-check:[RUP](../assets/Aulas/RUP.pdf)   |
-| __05__ - 05/09/25     | :material-check: Elaboração 5w2h  <br> :material-check:[Brainstorm](../assets/Aulas/O%20processo%20de brainstorm.pdf) e [Mapa Mental](../assets/Aulas/Mapa%20Mental.pdf)|
+| __05__ - 05/09/25     | :material-check: Elaboração 5w2h  <br> :material-check:[Brainstorm](../assets/Aulas/O%20processo%20de brainstorm.pdf) e [Mapa Mental](../assets/Aulas/Mapa%20Mental.pdf) <br> :material-check: [Engenharia de Requisitos](..//assets/Aulas/Engenharia%20de%20Requisitos_Cap05.pdf) |
 <!--
 
-| __06__ - 28/03/24     | :material-check: [Engenharia de Requisitos](..//assets/Aulas/Engenharia%20de%20Requisitos_Cap05.pdf)  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf) |
+| __06__ - 28/03/24     |  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf) |
 | __07__ - 04/04/25     | :material-check: AP1    |
 | __08__ - 11/04/25     | :material-check: Python OO <br> - [Notebook](../Disciplina/Roteiros/__Construção/Poo/poo.ipynb) <br> - [Conceito de OO](../Disciplina/Roteiros/__Construção/Poo/Conceitos-basicos-de-OO.pdf) <br> - [Python OO](../Disciplina/Roteiros/__Construção/Poo/Python-OO.pdf) <br> - Introdução ao Django  |
 | __09__ - 18/04/25     | :material-check: Feriado  |
