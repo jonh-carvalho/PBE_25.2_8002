@@ -13,7 +13,7 @@ hide:
 
     ---
 
-    Lorem Ipsum dolor sit amet consectetur adipiscing elit suscipit porttitor.
+    Ana Clara, Caio Azevedo, João Pedro, Keanu Pereira, .
 
     [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PBE_25.2_8002_I)
 
@@ -21,18 +21,9 @@ hide:
 
     ---
 
-    Lorem Ipsum dolor sit amet consectetur adipiscing elit suscipit porttitor.
-
+    Enzo Zambrotti, Felipe, Murilo Piatigorsky, Nicholas Victorino
+    
     [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PBE_25.2_8002_II)
-
-
--   :material-github:{ .lg .middle } __PBE_25.2_8002_III__
-
-    ---
-
-    Lorem Ipsum dolor sit amet consectetur adipiscing elit suscipit porttitor.
-
-    [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PBE_25.2_8002_III)
 
 </div>
 
