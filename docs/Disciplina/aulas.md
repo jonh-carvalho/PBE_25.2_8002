@@ -7,6 +7,9 @@
 | __03__ - 22/08/25     | :material-check: |
 | __04__ - 29/08/25     | :material-check:[RUP](../assets/Aulas/RUP.pdf)   |
 | __05__ - 05/09/25     | :material-check: Elaboração 5w2h  <br> :material-check:[Brainstorm](../assets/Aulas/O%20processo%20de brainstorm.pdf) e [Mapa Mental](../assets/Aulas/Mapa%20Mental.pdf) <br> :material-check: [Engenharia de Requisitos](..//assets/Aulas/Engenharia%20de%20Requisitos_Cap05.pdf) |
+| __06__ - 12/09/25     |  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso  |
+| __07__ - 19/09/25     | :material-check: <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf)    |
+| __08__ - 26/09/25     | :material-check: AP1   |
 <!--
 
 | __06__ - 28/03/24     |  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf) |
