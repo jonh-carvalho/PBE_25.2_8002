@@ -1,0 +1,34 @@
+@startuml
+left to right direction
+
+
+actor Aluno
+actor Professor
+actor Coordenador
+
+rectangle "Sistema de Gerenciamento de Curso de IA" {
+    usecase "Matricular-se em disciplina" as UC1
+    usecase "Lançar notas" as UC2
+    usecase "Criar turma" as UC3
+    usecase "Consultar horários" as UC4
+    usecase "Gerenciar disciplinas" as UC5
+}
+
+Aluno --> UC1
+Aluno --> UC4
+
+Professor --> UC2
+Professor --> UC4
+
+Coordenador --> UC3
+Coordenador --> UC5
+Coordenador --> UC4
+
+note right of UC3
+    Turmas podem ser criadas nos horários:
+    - Manhã
+    - Tarde
+    - Noite
+end note
+
+@enduml
