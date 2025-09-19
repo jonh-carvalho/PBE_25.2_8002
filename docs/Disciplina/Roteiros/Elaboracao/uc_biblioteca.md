@@ -54,27 +54,29 @@ A partir deste caso de uso, você pode definir os seguintes objetos e suas inter
 Esse cenário pode ser expandido com novos casos de uso, como o gerenciamento de downloads ou renovação de assinaturas.
 
 ```plantuml
-@startuml teste
+@startuml
 left to right direction
+actor "Usuário" as User
+actor "Usuário Premium" as Premium
+actor "Sistema de Pagamento" as Payment
 
-actor Usuario
-actor SistemaPagamento
+rectangle Biblioteca {
+  User -- (Cadastrar-se)
+  User -- (Fazer Login)
+  User -- (Buscar Livros)
+  User -- (Reservar Livro)
+  User -- (Baixar Livro)
+  User -- (Receber Notificações)
+  User -- (Assinar Premium)
+  (Assinar Premium) -- Payment
 
-Usuario --> (Cadastrar-se)
-Usuario --> (Autenticar/Login)
-Usuario --> (Buscar Livro)
-Usuario --> (Reservar Livro)
-Usuario --> (Baixar Livro)
-Usuario --> (Assinar Premium)
-Usuario --> (Receber Notificações)
+  Premium -- (Reservar Livro) : <<sem limite>>
+  Premium -- (Acessar Livros Exclusivos)
+  Premium -- (Baixar Livro) : <<downloads ilimitados>>
 
-(Reservar Livro) .> (Verificar Limite de Reservas) : <<include>>
-(Reservar Livro) .> (Verificar Disponibilidade do Livro) : <<include>>
-(Reservar Livro) .> (Verificar Status Premium) : <<include>>
-(Assinar Premium) --> SistemaPagamento : "Pagamento"
-
-Usuario --> (Visualizar Livros Exclusivos)
-(Visualizar Livros Exclusivos) .> (Verificar Status Premium) : <<include>>
+  (Reservar Livro) .> (Baixar Livro) : <<reserva necessária>>
+  (Assinar Premium) .> (Acessar Livros Exclusivos)
+}
 
 @enduml
 ```

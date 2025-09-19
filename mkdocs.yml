@@ -37,8 +37,7 @@ nav:
       - Casos de Uso: Elaboracao/diagrama_casos_de_uso.md
       - Diagrama de Classes: Elaboracao/diagrama_de_classes.md
       - Diagrama de Sequência: Elaboracao/diagrama_de_sequencia.md
-      - Protótipo de Alta Fidelidade: Elaboracao/prototipo_alta_fidelidade.md
-      - Documento de Arquitetura: Elaboracao/das.md
+      - Protótipo de Baixa Fidelidade: Elaboracao/prototipo_baixa_fidelidade.md
   - Construção:
       - Index: Construcao/index.md
       - Git Issues: Construcao/git_issues.md
