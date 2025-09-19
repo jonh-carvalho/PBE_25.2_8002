@@ -41,9 +41,9 @@ salt
     [ Sair ]
   }
   --
-  {
+  {+
     Cadastro de Usuário
-  }
+  
   {
     [ Nome:           |______________ ]
     [ Email:          |______________ ]
@@ -51,6 +51,7 @@ salt
     [ Confirmar Senha:|______________ ]
     [ Cadastrar ]
     [ Voltar ao Login ]
+  }
   }
 }
 @enduml
