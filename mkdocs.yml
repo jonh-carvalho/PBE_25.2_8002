@@ -117,6 +117,7 @@ plugins:
   - plantuml:
       puml_url: https://www.plantuml.com/plantuml/
       puml_keyword: plantuml
+  - mkdocs-jupyter
   - minify:
       minify_html: true
   - search
