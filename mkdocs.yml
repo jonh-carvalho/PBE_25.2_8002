@@ -125,6 +125,7 @@ plugins:
 
 theme:
   name: material
+  favicon: assets/ibmec_icon.png
   logo: assets/ibmec_logo.png
   palette:
     
