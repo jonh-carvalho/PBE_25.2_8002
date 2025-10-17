@@ -10,7 +10,6 @@ nav:
       - Aulas: Disciplina/aulas.md
       - Roteiros: 
           - Iniciação:
-
               - Design Thinking: Disciplina/Roteiros/Iniciação/04_DesignThinking.md
               - UP: Disciplina/Roteiros/Iniciação/04_UPgithub.md
           - Elaboração:
@@ -57,7 +56,7 @@ nav:
               - Django:
                   - Intro: Disciplina\Roteiros\Construcao\Django\01_Intro.md
                   - Intro Rest: Disciplina\Roteiros\Construcao\Django\02_Intro Django Rest.md
->>>>>>> 89685a9ba0193e670264b13cb3f12fc8e0f91895
+
       - Avaliações: Disciplina/avaliacoes.md
       - Ambiente: Disciplina/ambiente.md
       - Github: Disciplina/github.md
