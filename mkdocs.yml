@@ -10,7 +10,7 @@ nav:
       - Aulas: Disciplina/aulas.md
       - Roteiros: 
           - Iniciação:
-<<<<<<< HEAD
+
               - Design Thinking: Disciplina/Roteiros/Iniciação/04_DesignThinking.md
               - UP: Disciplina/Roteiros/Iniciação/04_UPgithub.md
           - Elaboração:
@@ -44,9 +44,6 @@ nav:
                       - 14. Filtros: Disciplina\Roteiros\Construção\Django\Streaming\13_Filtros.md
                       - 15. Regras de Negócio: Disciplina\Roteiros\Construção\Django\Streaming\14_Regras de Negócio.md
                       - 16. Deploy: Disciplina\Roteiros\Construção\Django\Streaming\15_Deploy.md
-=======
-              - Design Thinking: Disciplina/Roteiros/Iniciacao/04_DesignThinking.md
-              - UP: Disciplina/Roteiros/Iniciacao/04_UPgithub.md
           - Elaboração:
               - Requisitos: Disciplina/Roteiros/Elaboracao/req_biblioteca.md
               - Casos de Uso: Disciplina/Roteiros/Elaboracao/uc_biblioteca.md
@@ -66,11 +63,7 @@ nav:
       - Github: Disciplina/github.md
       - CodeSpace: Disciplina/codespace.md
       - Mkdocs: Disciplina/mkdocs.md
-      
-<<<<<<< HEAD
-=======
               
->>>>>>> 89685a9ba0193e670264b13cb3f12fc8e0f91895
   - Iniciação: 
       - Index: Iniciacao/index.md
       - Pesquisa: Iniciacao/pesquisa.md
