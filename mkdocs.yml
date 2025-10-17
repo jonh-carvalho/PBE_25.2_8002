@@ -72,6 +72,7 @@ nav:
       - Diagrama de Sequência: Elaboracao/diagrama_de_sequencia.md
       - Protótipo de Baixa Fidelidade: Elaboracao/prototipo_baixa_fidelidade.md
   - Construção:
+      - Formulario de Proposta: assets\Aulas\form_proposta.pdf
       - Index: Construcao/index.md
       - Git Issues: Construcao/git_issues.md
       - GitHub Projects: Construcao/github_projects.md
