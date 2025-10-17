@@ -10,6 +10,7 @@ nav:
       - Aulas: Disciplina/aulas.md
       - Roteiros: 
           - Iniciação:
+<<<<<<< HEAD
               - Design Thinking: Disciplina/Roteiros/Iniciação/04_DesignThinking.md
               - UP: Disciplina/Roteiros/Iniciação/04_UPgithub.md
           - Elaboração:
@@ -43,12 +44,33 @@ nav:
                       - 14. Filtros: Disciplina\Roteiros\Construção\Django\Streaming\13_Filtros.md
                       - 15. Regras de Negócio: Disciplina\Roteiros\Construção\Django\Streaming\14_Regras de Negócio.md
                       - 16. Deploy: Disciplina\Roteiros\Construção\Django\Streaming\15_Deploy.md
+=======
+              - Design Thinking: Disciplina/Roteiros/Iniciacao/04_DesignThinking.md
+              - UP: Disciplina/Roteiros/Iniciacao/04_UPgithub.md
+          - Elaboração:
+              - Requisitos: Disciplina/Roteiros/Elaboracao/req_biblioteca.md
+              - Casos de Uso: Disciplina/Roteiros/Elaboracao/uc_biblioteca.md
+              - Classes: Disciplina/Roteiros/Elaboracao/class_biblioteca.md
+          - Construção:
+              - Poo: 
+                  - Intro OO: Disciplina\Roteiros\Construcao\Poo\Conceitos-basicos-de-OO.pdf
+                  - Procedural x OO: Disciplina\Roteiros\Construcao\Poo\proceduralXpoo.ipynb
+                  - Intro Python OO: Disciplina\Roteiros\Construcao\Poo\poo.ipynb
+                  - Python OO: Disciplina\Roteiros\Construcao\Poo\Python-OO.pdf
+              - Django:
+                  - Intro: Disciplina\Roteiros\Construcao\Django\01_Intro.md
+                  - Intro Rest: Disciplina\Roteiros\Construcao\Django\02_Intro Django Rest.md
+>>>>>>> 89685a9ba0193e670264b13cb3f12fc8e0f91895
       - Avaliações: Disciplina/avaliacoes.md
       - Ambiente: Disciplina/ambiente.md
       - Github: Disciplina/github.md
       - CodeSpace: Disciplina/codespace.md
       - Mkdocs: Disciplina/mkdocs.md
       
+<<<<<<< HEAD
+=======
+              
+>>>>>>> 89685a9ba0193e670264b13cb3f12fc8e0f91895
   - Iniciação: 
       - Index: Iniciacao/index.md
       - Pesquisa: Iniciacao/pesquisa.md
@@ -61,11 +83,10 @@ nav:
   - Elaboração:
       - Index: Elaboracao/index.md
       - Requisitos: Elaboracao/espreq.md
-      - Casos de Uso: Elaboracao/casos_de_uso.md
+      - Casos de Uso: Elaboracao/diagrama_casos_de_uso.md
       - Diagrama de Classes: Elaboracao/diagrama_de_classes.md
       - Diagrama de Sequência: Elaboracao/diagrama_de_sequencia.md
-      - Protótipo de Alta Fidelidade: Elaboracao/prototipo_alta_fidelidade.md
-      - Documento de Arquitetura: Elaboracao/das.md
+      - Protótipo de Baixa Fidelidade: Elaboracao/prototipo_baixa_fidelidade.md
   - Construção:
       - Index: Construcao/index.md
       - Git Issues: Construcao/git_issues.md
@@ -132,12 +153,18 @@ markdown_extensions:
       permalink: true
 
 plugins:
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
+      puml_keyword: plantuml
+  - mkdocs-jupyter
   - minify:
       minify_html: true
   - search
+  
 
 theme:
   name: material
+  favicon: assets/ibmec_icon.png
   logo: assets/ibmec_logo.png
   palette:
     

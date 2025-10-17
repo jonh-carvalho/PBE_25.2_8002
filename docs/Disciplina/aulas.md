@@ -10,6 +10,17 @@
 | __06__ - 12/09/25     |  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso  |
 | __07__ - 19/09/25     | :material-check: <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf)    |
 | __08__ - 26/09/25     | :material-check: AP1   |
+| __09__ - 03/10/25     | :material-check: Python OO <br> - [Notebook](../Disciplina/Roteiros/Construcao/Poo/poo.ipynb) <br> - [Conceito de OO](../Disciplina/Roteiros/Construcao/Poo/Conceitos-basicos-de-OO.pdf) <br> - [Python OO](../Disciplina/Roteiros/Construcao/Poo/Python-OO.pdf) <br> - Introdução ao Django  |
+| __10__ - 10/10/25     | :material-check:  |
+| __11__ - 17/10/25     | :material-check: Roteiro Django |
+| __12__ - 24/10/25     | :material-check: Roteiro Django |
+| __13__ - 31/10/25     | :material-check: Roteiro Streaming |
+| __14__ - 07/11/25     | :material-check: Roteiro Streaming |
+| __15__ - 14/11/25     | :material-check: AP2 - Apresentação Projeto |
+| __16__ - 21/11/25     | :material-check:  |
+| __17__ - 28/11/25     | :material-check: AS |
+
+
 <!--
 
 | __06__ - 28/03/24     |  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf) |
