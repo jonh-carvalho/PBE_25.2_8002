@@ -1,0 +1,26 @@
+@startuml BibliotecaDigitalClasses
+left to right direction
+
+class Usuario {
+	}
+
+class Livro {
+	
+}
+
+class Biblioteca {
+	
+}
+
+class Assinatura {
+	
+}
+
+Usuario  --  Assinatura : possui >
+Usuario  --  Livro : "reserva >"
+Biblioteca  --  Livro : "contém >"
+Biblioteca  --  Usuario : "gerencia >"
+
+Livro  --  Usuario : "reservadoPor >" #line:dashed
+
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+
+actor "Usuário" as User
+actor "Usuário Premium" as Premium
+actor "Sistema de Pagamento" as Payment
+
+rectangle Biblioteca {
+  User -- (Cadastrar-se)
+  User -- (Fazer Login)
+  User -- (Buscar Livros)
+  User -- (Reservar Livro)
+  User -- (Baixar Livro)
+  User -- (Receber Notificações)
+  User -- (Assinar Premium)
+  (Assinar Premium) -- Payment
+
+  Premium -- (Reservar Livro) : <<sem limite>>
+  Premium -- (Acessar Livros Exclusivos)
+  Premium -- (Baixar Livro) : <<downloads ilimitados>>
+
+  (Reservar Livro) .> (Baixar Livro) : <<reserva necessária>>
+  (Assinar Premium) .> (Acessar Livros Exclusivos)
+}
+
+@enduml
