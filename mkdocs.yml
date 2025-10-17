@@ -26,10 +26,10 @@ nav:
                   - Intro: Disciplina\Roteiros\Construção\Django\01_Intro.md
                   - Intro Rest: Disciplina\Roteiros\Construção\Django\02_Intro Django Rest.md
                   - Streaming: 
-                      - 0. Projeto Streaming: Disciplina\Roteiros\Construção\Django\Streaming\00_Projeto_Streaming.md
-                      - 1. Regras de Negócio: Disciplina\Roteiros\Construção\Django\Streaming\01_Regras_Negócio_Streaming.md
-                      - 2. Modelagem: Disciplina\Roteiros\Construção\Django\Streaming\02_Modelagem_Streaming.md
-                      - 3. Rest Api: Disciplina\Roteiros\Construção\Django\Streaming\03_Rest_Streaming.md
+                      - 0. Projeto Streaming: Disciplina\Roteiros\Construcao\Django\Streaming\00_Projeto_Streaming.md
+                      - 1. Regras de Negócio: Disciplina\Roteiros\Construcao\Django\Streaming\01_Regras_Negócio_Streaming.md
+                      - 2. Modelagem: Disciplina\Roteiros\Construcao\Django\Streaming\02_Modelagem_Streaming.md
+                      - 3. Rest Api: Disciplina\Roteiros\Construcao\Django\Streaming\03_Rest_Streaming.md
                       - 4. Consume: Disciplina\Roteiros\Construção\Django\Streaming\04_Consume_Streaming.md
                       - 5. Playlists NxN: Disciplina\Roteiros\Construção\Django\Streaming\05_Playlist NxN.md
                       - 6. Shell: Disciplina\Roteiros\Construção\Django\Streaming\06_Shell_Streaming.md
@@ -47,15 +47,7 @@ nav:
               - Requisitos: Disciplina/Roteiros/Elaboracao/req_biblioteca.md
               - Casos de Uso: Disciplina/Roteiros/Elaboracao/uc_biblioteca.md
               - Classes: Disciplina/Roteiros/Elaboracao/class_biblioteca.md
-          - Construção:
-              - Poo: 
-                  - Intro OO: Disciplina\Roteiros\Construcao\Poo\Conceitos-basicos-de-OO.pdf
-                  - Procedural x OO: Disciplina\Roteiros\Construcao\Poo\proceduralXpoo.ipynb
-                  - Intro Python OO: Disciplina\Roteiros\Construcao\Poo\poo.ipynb
-                  - Python OO: Disciplina\Roteiros\Construcao\Poo\Python-OO.pdf
-              - Django:
-                  - Intro: Disciplina\Roteiros\Construcao\Django\01_Intro.md
-                  - Intro Rest: Disciplina\Roteiros\Construcao\Django\02_Intro Django Rest.md
+          
 
       - Avaliações: Disciplina/avaliacoes.md
       - Ambiente: Disciplina/ambiente.md
